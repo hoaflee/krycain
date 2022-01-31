@@ -11,3 +11,13 @@ https://tailwindcss.com/docs/installation/using-postcss
 # mẫu css
 
 csshero.org/mesher
+
+# nhận Ethereum mạng test
+https://faucet.egorfine.com/
+
+
+# cách deploy smart contract
+npx hardhat run scripts/deploy.js --network ropsten
+
+# chỗ deploy app
+https://dashboard.alchemyapi.io/apps/3yigk8640e0aoefp
