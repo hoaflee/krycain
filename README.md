@@ -26,3 +26,6 @@ https://dashboard.alchemyapi.io/apps/3yigk8640e0aoefp
 
 # hex to decimal (Gwei)
 eth-converter.com
+
+# gif
+https://developers.giphy.com/
